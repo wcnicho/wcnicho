@@ -5,7 +5,7 @@
 - I intend on completing the BS/MS program
 
 ## My Work
-- I’m currently Helping code Sex-based differences into a network-based ODE model of mycardial fibroblasts created by Dr. William Richardson and expanded by Jessie Rogers
+- I’m currently helping code sex-based differences into a network-based ODE model of mycardial fibroblasts created by Dr. William Richardson and expanded by Jessie Rogers and Kelsey Watts
   - [Fibroblast Mechanotransduction Network](https://doi.org/10.7554/eLife.62856)
 - I have worked to perform a paramter analysis using the Palmetto Cluster to determine optimal values
   - [Palmetto Cluster Website](https://www.palmetto.clemson.edu/palmetto/about/)
