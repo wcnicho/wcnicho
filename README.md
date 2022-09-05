@@ -1,4 +1,4 @@
-# Hi, I’m @wcnicho!
+# Hi, I’m Wesley Nichols (@wcnicho)!
 
 ## About Me
 - I’m currently studying Bioengineering at Clemson University
